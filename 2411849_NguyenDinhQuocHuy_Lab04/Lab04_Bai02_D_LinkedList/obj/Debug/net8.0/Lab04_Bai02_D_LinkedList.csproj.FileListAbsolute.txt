@@ -1,0 +1,31 @@
+Z:\2411849_NguyenDinhQuocHuy_Lab04\Lab04_Bai02_D_LinkedList\bin\Debug\net8.0\Lab04_Bai02_D_LinkedList.exe
+Z:\2411849_NguyenDinhQuocHuy_Lab04\Lab04_Bai02_D_LinkedList\bin\Debug\net8.0\data.txt
+Z:\2411849_NguyenDinhQuocHuy_Lab04\Lab04_Bai02_D_LinkedList\bin\Debug\net8.0\Lab04_Bai02_D_LinkedList.deps.json
+Z:\2411849_NguyenDinhQuocHuy_Lab04\Lab04_Bai02_D_LinkedList\bin\Debug\net8.0\Lab04_Bai02_D_LinkedList.runtimeconfig.json
+Z:\2411849_NguyenDinhQuocHuy_Lab04\Lab04_Bai02_D_LinkedList\bin\Debug\net8.0\Lab04_Bai02_D_LinkedList.dll
+Z:\2411849_NguyenDinhQuocHuy_Lab04\Lab04_Bai02_D_LinkedList\bin\Debug\net8.0\Lab04_Bai02_D_LinkedList.pdb
+Z:\2411849_NguyenDinhQuocHuy_Lab04\Lab04_Bai02_D_LinkedList\obj\Debug\net8.0\Lab04_Bai02_D_LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+Z:\2411849_NguyenDinhQuocHuy_Lab04\Lab04_Bai02_D_LinkedList\obj\Debug\net8.0\Lab04_Bai02_D_LinkedList.AssemblyInfoInputs.cache
+Z:\2411849_NguyenDinhQuocHuy_Lab04\Lab04_Bai02_D_LinkedList\obj\Debug\net8.0\Lab04_Bai02_D_LinkedList.AssemblyInfo.cs
+Z:\2411849_NguyenDinhQuocHuy_Lab04\Lab04_Bai02_D_LinkedList\obj\Debug\net8.0\Lab04_Bai02_D_LinkedList.csproj.CoreCompileInputs.cache
+Z:\2411849_NguyenDinhQuocHuy_Lab04\Lab04_Bai02_D_LinkedList\obj\Debug\net8.0\Lab04_Bai02_D_LinkedList.dll
+Z:\2411849_NguyenDinhQuocHuy_Lab04\Lab04_Bai02_D_LinkedList\obj\Debug\net8.0\refint\Lab04_Bai02_D_LinkedList.dll
+Z:\2411849_NguyenDinhQuocHuy_Lab04\Lab04_Bai02_D_LinkedList\obj\Debug\net8.0\Lab04_Bai02_D_LinkedList.pdb
+Z:\2411849_NguyenDinhQuocHuy_Lab04\Lab04_Bai02_D_LinkedList\obj\Debug\net8.0\Lab04_Bai02_D_LinkedList.genruntimeconfig.cache
+Z:\2411849_NguyenDinhQuocHuy_Lab04\Lab04_Bai02_D_LinkedList\obj\Debug\net8.0\ref\Lab04_Bai02_D_LinkedList.dll
+D:\Cấu trúc dữ liệu - Thuật giải\2411849_NguyenDinhQuocHuy_Lab04\Lab04_Bai02_D_LinkedList\bin\Debug\net8.0\output.txt
+D:\Cấu trúc dữ liệu - Thuật giải\2411849_NguyenDinhQuocHuy_Lab04\Lab04_Bai02_D_LinkedList\bin\Debug\net8.0\Lab04_Bai02_D_LinkedList.exe
+D:\Cấu trúc dữ liệu - Thuật giải\2411849_NguyenDinhQuocHuy_Lab04\Lab04_Bai02_D_LinkedList\bin\Debug\net8.0\data.txt
+D:\Cấu trúc dữ liệu - Thuật giải\2411849_NguyenDinhQuocHuy_Lab04\Lab04_Bai02_D_LinkedList\bin\Debug\net8.0\Lab04_Bai02_D_LinkedList.deps.json
+D:\Cấu trúc dữ liệu - Thuật giải\2411849_NguyenDinhQuocHuy_Lab04\Lab04_Bai02_D_LinkedList\bin\Debug\net8.0\Lab04_Bai02_D_LinkedList.runtimeconfig.json
+D:\Cấu trúc dữ liệu - Thuật giải\2411849_NguyenDinhQuocHuy_Lab04\Lab04_Bai02_D_LinkedList\bin\Debug\net8.0\Lab04_Bai02_D_LinkedList.dll
+D:\Cấu trúc dữ liệu - Thuật giải\2411849_NguyenDinhQuocHuy_Lab04\Lab04_Bai02_D_LinkedList\bin\Debug\net8.0\Lab04_Bai02_D_LinkedList.pdb
+D:\Cấu trúc dữ liệu - Thuật giải\2411849_NguyenDinhQuocHuy_Lab04\Lab04_Bai02_D_LinkedList\obj\Debug\net8.0\Lab04_Bai02_D_LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cấu trúc dữ liệu - Thuật giải\2411849_NguyenDinhQuocHuy_Lab04\Lab04_Bai02_D_LinkedList\obj\Debug\net8.0\Lab04_Bai02_D_LinkedList.AssemblyInfoInputs.cache
+D:\Cấu trúc dữ liệu - Thuật giải\2411849_NguyenDinhQuocHuy_Lab04\Lab04_Bai02_D_LinkedList\obj\Debug\net8.0\Lab04_Bai02_D_LinkedList.AssemblyInfo.cs
+D:\Cấu trúc dữ liệu - Thuật giải\2411849_NguyenDinhQuocHuy_Lab04\Lab04_Bai02_D_LinkedList\obj\Debug\net8.0\Lab04_Bai02_D_LinkedList.csproj.CoreCompileInputs.cache
+D:\Cấu trúc dữ liệu - Thuật giải\2411849_NguyenDinhQuocHuy_Lab04\Lab04_Bai02_D_LinkedList\obj\Debug\net8.0\Lab04_Bai02_D_LinkedList.dll
+D:\Cấu trúc dữ liệu - Thuật giải\2411849_NguyenDinhQuocHuy_Lab04\Lab04_Bai02_D_LinkedList\obj\Debug\net8.0\refint\Lab04_Bai02_D_LinkedList.dll
+D:\Cấu trúc dữ liệu - Thuật giải\2411849_NguyenDinhQuocHuy_Lab04\Lab04_Bai02_D_LinkedList\obj\Debug\net8.0\Lab04_Bai02_D_LinkedList.pdb
+D:\Cấu trúc dữ liệu - Thuật giải\2411849_NguyenDinhQuocHuy_Lab04\Lab04_Bai02_D_LinkedList\obj\Debug\net8.0\Lab04_Bai02_D_LinkedList.genruntimeconfig.cache
+D:\Cấu trúc dữ liệu - Thuật giải\2411849_NguyenDinhQuocHuy_Lab04\Lab04_Bai02_D_LinkedList\obj\Debug\net8.0\ref\Lab04_Bai02_D_LinkedList.dll
